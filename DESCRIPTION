@@ -1,8 +1,8 @@
 Package: mangoTraining
 Type: Package
 Title: Mango Solutions Training Datasets
-Version: 1.0-6
-Date: 2015-07-07
+Version: 1.0-7
+Date: 2017-01-17
 Author: Mango Solutions <rin24hours@mango-solutions.com>
 Maintainer: Aimee Gott <agott@mango-solutions.com>
 Contact: Mango Solutions <rin24hours@mango-solutions.com>
@@ -15,6 +15,6 @@ LazyLoad: yes
 LazyData: yes
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2015-12-18 09:45:27 UTC; agott
+Packaged: 2017-01-17 17:17:01 UTC; agott
 Repository: CRAN
-Date/Publication: 2015-12-18 11:08:07
+Date/Publication: 2017-01-17 18:25:21

@@ -1,9 +1,11 @@
-b08456e1913192f838c318b494f48115 *DESCRIPTION
-b5b2e20c75457107297b566908b8c29d *NAMESPACE
+7c288291d58ab2ef606e04e371d9f719 *DESCRIPTION
+fd43b38784fc20d7732b630af41d0194 *NAMESPACE
 dc410a363b692aebad9359a218abe865 *R/demoData.R
 697376b2291d069dac4c32c6aa5fdada *R/dowJonesData.R
 baf1608dc0d86adeb859d27c7bcbe14a *R/drugs.R
 54895845cbc37752a29485f1edcb5a73 *R/emaxData.R
+c246950fea604d33dfb3e2fe33f4f4dc *R/emaxFun.R
+b305e17ed3d8e44cee8202b598723e71 *R/logisticFun.R
 5122e03696bc464528d734dbce30468e *R/mangoTraining-package.R
 bfa96511230f4d04b4d299e646006b52 *R/messyData.R
 8f6aca86628b437052de167c94cd7de0 *R/missingPk.R
@@ -31,6 +33,8 @@ fa9d09835158e700a097cdca73622663 *man/demoData.Rd
 5f5b91d273c9abab82a98e9a1d8c5135 *man/dowJonesData.Rd
 3e148d56c23ddbdd07202db70db190f0 *man/drugs.Rd
 15bc99f4c57aa0e977cf38b88a1abb19 *man/emaxData.Rd
+e4f52a74f9ad0e36c4bdb3a840b585fc *man/emaxFun.Rd
+e57e2a7c47206026a9fcdd5b568fcee8 *man/logisticFun.Rd
 c651f3c516a077a049c75e2aab831fd2 *man/mangoTraining-package.Rd
 ff0db68e88353460d6aa7c20e6dc1d7b *man/messyData.Rd
 ea8c30cafcb1977bb287e0e1e070ed9a *man/missingPk.Rd
