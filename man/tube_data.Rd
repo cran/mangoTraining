@@ -4,7 +4,7 @@
 \name{tube_data}
 \alias{tube_data}
 \alias{tubeData}
-\title{London Tube Performace data}
+\title{London Tube Performance data}
 \format{
 A data frame with 1050 observations on the following 9 variables.
  \describe{
@@ -20,7 +20,7 @@ A data frame with 1050 observations on the following 9 variables.
  }
 }
 \source{
-This data was taken from "http://data.london.gov.uk/datafiles/transport/assembly-tube-performance.xls"
+This data was taken from "https://data.london.gov.uk/dataset/tube-network-performance-data-transport-committee-report"
 }
 \usage{
 tube_data
@@ -28,7 +28,7 @@ tube_data
 tubeData
 }
 \description{
-London Tube Performace data
+London Tube Performance data
 }
 \details{
 This dataset has be renamed using tidyverse-style snake_case naming conventions. However the original name of the dataset has been kept to ensure 
